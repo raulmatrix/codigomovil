@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">app9</string>
+
+    <string-array name="categoria">
+        <item>Fuerza</item>
+        <item>Magia</item>
+        <item>Tecnologia</item>
+        <item>Volador</item>
+    </string-array>
+
 </resources>

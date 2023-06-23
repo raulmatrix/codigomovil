@@ -42,6 +42,18 @@
         android:ems="10"
         android:inputType="textPersonName" />
 
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Categoria" />
+
+    <Spinner
+        android:id="@+id/sp_categoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/categoria" />
+
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
